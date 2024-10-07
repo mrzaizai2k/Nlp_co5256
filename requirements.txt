@@ -69,6 +69,7 @@ requests==2.32.3
 rich==13.9.2
 scikit-learn==1.5.2
 scipy==1.13.1
+seaborn==0.13.2
 six==1.16.0
 smart-open==7.0.5
 stack-data==0.6.3
