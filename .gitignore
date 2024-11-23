@@ -165,3 +165,4 @@ venv/
 *.csv
 *.h5
 *.bin
+*.joblib
