@@ -166,3 +166,5 @@ venv/
 *.h5
 *.bin
 *.joblib
+model/
+data/
